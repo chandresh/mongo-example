@@ -3,7 +3,6 @@
 2. Add gems:
 
 gem 'mongoid'
-gem 'mongoid-paperclip'
 
 3. rails generate mongoid:config
 
