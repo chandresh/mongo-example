@@ -13,6 +13,14 @@ We don't need to do these:
 rake db:migrate
 migrations
 
+Popular gems
+
+gem 'simple_form'
+gem 'mongoid_slug'
+gem "mongoid-paperclip", :require => "mongoid_paperclip"
+
+
+
 
 Category embeds_many products:
 
@@ -42,11 +50,4 @@ Products:
 
 
 --------------
-
-
-Popular gems
-
-gem 'simple_form'
-gem 'mongoid_slug'
-gem "mongoid-paperclip", :require => "mongoid_paperclip"
 
