@@ -1,0 +1,15 @@
+1. rails new mongoexample -T -O
+
+2. Add gems:
+
+gem 'mongoid'
+gem 'mongoid-paperclip'
+
+3. rails generate mongoid:config
+
+4. rails g scaffold Product name description
+
+We don't need to do these:
+
+rake db:migrate
+migrations
