@@ -10,6 +10,7 @@ gem 'mongoid'
 gem 'simple_form'
 gem 'mongoid_slug'
 gem "mongoid-paperclip", :require => "mongoid_paperclip"
+gem 'will_paginate_mongoid'
 
 
 # Gems used only for assets and not required
