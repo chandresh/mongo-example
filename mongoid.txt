@@ -42,4 +42,6 @@ Products:
 { "_id" : ObjectId("51c0fb84f91442f5f0000009"), "category_ids" : [ ObjectId("51c0fb73f91442f5f0000008") ], "name" : "Some book" }
 
 
+Add Simple Form
+
 
